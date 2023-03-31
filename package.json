@@ -1,6 +1,6 @@
 {
   "name": "@minimal/minimal-kit-react",
-  "homepage": "https://acadame.cdssapps.in",
+  "homepage": "http://acadame.cdssapps.in",
   "author": "minimals.cc",
   "version": "1.2.2",
   "private": true,
@@ -81,6 +81,7 @@
     "lodash": "^4.17.21",
     "mapbox-gl": "^2.6.1",
     "material-table": "^1.69.3",
+    "next": "^13.2.5-canary.22",
     "notistack": "^2.0.3",
     "nprogress": "^0.2.0",
     "numeral": "^2.0.6",
