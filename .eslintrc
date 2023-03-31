@@ -8,6 +8,7 @@
     "airbnb",
     "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended",
+    "react-app", "react-app/jest",
     "prettier"
   ],
   "plugins": [
